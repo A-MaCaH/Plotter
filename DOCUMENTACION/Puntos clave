@@ -1,0 +1,8 @@
+Puntos con oportunidad de mejorar 
+
+-->
+
+puntos que pueden afectar al proyecto
+
+-->no ṕoder trasmitir los datos desde python, ya que necesitamos realizar el protocolo UART
+-->que la comunicacion no funcione adecuadamente, por lo que necesitariamos una verificacion de los datos

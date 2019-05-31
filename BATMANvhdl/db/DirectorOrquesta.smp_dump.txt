@@ -1,0 +1,24 @@
+
+State Machine - |DirectorOrquesta|motpasos:M2|pres_S
+Name pres_S.sm7 pres_S.sm6 pres_S.sm5 pres_S.sm4 pres_S.sm3 pres_S.sm2 pres_S.sm1 pres_S.RESET pres_S.sm0 
+pres_S.sm0 0 0 0 0 0 0 0 0 0 
+pres_S.RESET 0 0 0 0 0 0 0 1 1 
+pres_S.sm1 0 0 0 0 0 0 1 0 1 
+pres_S.sm2 0 0 0 0 0 1 0 0 1 
+pres_S.sm3 0 0 0 0 1 0 0 0 1 
+pres_S.sm4 0 0 0 1 0 0 0 0 1 
+pres_S.sm5 0 0 1 0 0 0 0 0 1 
+pres_S.sm6 0 1 0 0 0 0 0 0 1 
+pres_S.sm7 1 0 0 0 0 0 0 0 1 
+
+State Machine - |DirectorOrquesta|motpasos:M1|pres_S
+Name pres_S.sm7 pres_S.sm6 pres_S.sm5 pres_S.sm4 pres_S.sm3 pres_S.sm2 pres_S.sm1 pres_S.RESET pres_S.sm0 
+pres_S.sm0 0 0 0 0 0 0 0 0 0 
+pres_S.RESET 0 0 0 0 0 0 0 1 1 
+pres_S.sm1 0 0 0 0 0 0 1 0 1 
+pres_S.sm2 0 0 0 0 0 1 0 0 1 
+pres_S.sm3 0 0 0 0 1 0 0 0 1 
+pres_S.sm4 0 0 0 1 0 0 0 0 1 
+pres_S.sm5 0 0 1 0 0 0 0 0 1 
+pres_S.sm6 0 1 0 0 0 0 0 0 1 
+pres_S.sm7 1 0 0 0 0 0 0 0 1 
